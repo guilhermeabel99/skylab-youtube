@@ -26,10 +26,10 @@ To clone and run the application, you will need to have [Git](https://git-scm.co
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/rocketseat-content/youtube-nextjs-design-system
+$ git clone https://github.com/guilhermeabel99/skylab
 
 # Access the repository
-$ cd youtube-nextjs-design-system
+$ cd skylab
 
 # Install the dependencies
 $ yarn install
